@@ -1,0 +1,3 @@
+Time Complexity => Linear search takes O(n) time and not optimal while binary search takes o(logn) and is faster than linear search.
+
+Space Complexity => both have O(1)
